@@ -38,5 +38,8 @@ Which should result in a shotgun binary that can be run by:
 
 ./shotgun
 
+Before using shotgun, create a directory called clean and a directory called dirty adjacent to the shotgun executable. Files to be used as test subjects should be copied to the 'clean' directory and the corrupted output of shotgun will be stored in the 'dirty' directory.
+
+More information may be found in the ReadMeODT.odt file.
 
 
