@@ -34,9 +34,9 @@ qmake-qt4 -project
 qmake-qt4
 make
 
-Which should result in a shotGunSource binary that can be run by:
+Which should result in a shotgun binary that can be run by:
 
-./shotGunSource
+./shotgun
 
 
 
